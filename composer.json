@@ -1,5 +1,5 @@
 {
-    "name": "stechstudio/filament-impersonate",
+    "name": "nestecha/filament-impersonate",
     "description": "A Filament package to impersonate your users.",
     "type": "library",
     "require-dev": {
